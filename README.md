@@ -25,18 +25,3 @@ This repository is organized in a topic-wise manner with theory and concept expl
   Includes helpful shortcuts and tips to work efficiently in **IntelliJ IDEA**.
 
 ---
-
-## 📁 Fundamental Concepts
-
-- 📄 **First**  
-  Contains your first Java program – the classic starting point.
-
-- 📄 **Input_and_Datatypes**  
-  Covers how to take user input and explains primitive vs non-primitive types.
-
-- 📄 **Arithmetic**  
-  Demonstrates basic arithmetic operations and syntax in Java.
-
-- 📄 **Typecasting**  
-  Explains implicit and explicit type conversions in Java.
-
